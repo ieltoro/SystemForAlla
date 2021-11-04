@@ -9,7 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[Aa]ssets/Firebase
+/Kevin/Assets/Firebase
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -43,7 +43,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-
+*.so
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
