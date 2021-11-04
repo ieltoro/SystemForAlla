@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66860751167",
+    "project_id": "testingadam-7406e",
+    "storage_bucket": "testingadam-7406e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66860751167:android:cfb0b3a7ff32c1c9741b8a",
+        "android_client_info": {
+          "package_name": "com.adam.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66860751167-s9m1kika432lvgu80gk9eulv2amerk07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxe8bCppd3BnvbvReZGQcNp9Ci4wU2QH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66860751167-s9m1kika432lvgu80gk9eulv2amerk07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
